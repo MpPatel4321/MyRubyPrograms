@@ -1,0 +1,1666 @@
+.home-page-7PJ {
+  align-items: center;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+
+  .banner-jvU {
+    align-items: center;
+    background-image: url('image\ 2.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    margin-bottom: 10rem;
+    padding-bottom: 14.4rem;
+    width: 100%;
+
+    .header-GSY {
+      align-items: center;
+      background-color: #ffffff;
+      box-shadow: 0 0.4rem 1.3rem rgba(0, 0, 0, 0.0700000003);
+      box-sizing: border-box;
+      display: flex;
+      flex-shrink: 0;
+      height: 10.7rem;
+      margin-bottom: 12rem;
+      padding-right: 39rem;
+      width: 100%;
+
+      .auto-group-dnfv-Anp {
+        align-items: center;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 100%;
+        padding: 1.7rem 3.5rem 1.7rem 39rem;
+
+        .logo-qtx {
+          flex-shrink: 0;
+          height: 7.3rem;
+          margin-right: 9.5rem;
+          object-fit: cover;
+          vertical-align: top;
+          width: 23rem;
+        }
+
+        .nav-bar-mXi {
+          align-items: center;
+          display: flex;
+          flex-shrink: 0;
+          height: 4.2rem;
+          margin-top: 2.1rem;
+
+          .nav-bar-6K6 {
+            box-sizing: border-box;
+            cursor: pointer;
+            flex-shrink: 0;
+            height: 100%;
+            margin-right: 2rem;
+            padding: 0 0.4rem;
+            width: 8.3rem;
+
+            .frame-13-CmS {
+              color: #180707;
+              font-family: Montserrat, 'Source Sans Pro';
+              font-size: 1.6rem;
+              font-weight: 500;
+              height: 2.2rem;
+              line-height: 1.2175;
+              margin-bottom: 2rem;
+              white-space: nowrap;
+              width: 100%;
+            }
+          }
+
+          .nav-bar-4Hr {
+            box-sizing: border-box;
+            cursor: pointer;
+            flex-shrink: 0;
+            height: 100%;
+            margin-right: 2.1rem;
+            padding: 0 0.4rem;
+            width: 8.3rem;
+
+            .frame-13-mi4 {
+              color: #180707;
+              font-family: Montserrat, 'Source Sans Pro';
+              font-size: 1.6rem;
+              font-weight: 500;
+              height: 2.2rem;
+              line-height: 1.2175;
+              margin-bottom: 2rem;
+              white-space: nowrap;
+              width: 100%;
+            }
+          }
+
+          .nav-bar-gq2 {
+            box-sizing: border-box;
+            cursor: pointer;
+            flex-shrink: 0;
+            height: 100%;
+            margin-right: 4.5rem;
+            padding: 0 0.4rem;
+            width: 13.8rem;
+
+            .frame-13-qT2 {
+              align-items: center;
+              box-sizing: border-box;
+              display: flex;
+              height: 2.2rem;
+              padding-right: 0.5491rem;
+              width: 100%;
+
+              .home-aQc {
+                color: #180707;
+                flex-shrink: 0;
+                font-family: Montserrat, 'Source Sans Pro';
+                font-size: 1.6rem;
+                font-weight: 500;
+                line-height: 1.2175;
+                margin: 0rem 0.849rem 0.2rem 0rem;
+                white-space: nowrap;
+              }
+
+              .ci-chevron-down-fgx {
+                flex-shrink: 0;
+                height: 0.6806rem;
+                margin-top: 0.0001rem;
+                object-fit: contain;
+                vertical-align: top;
+                width: 1.1018rem;
+              }
+            }
+          }
+
+          .nav-bar-bac {
+            box-sizing: border-box;
+            cursor: pointer;
+            flex-shrink: 0;
+            height: 100%;
+            padding: 0 0.4rem;
+            width: 8.3rem;
+
+            .frame-13-8Ke {
+              color: #180707;
+              font-family: Montserrat, 'Source Sans Pro';
+              font-size: 1.6rem;
+              font-weight: 500;
+              height: 2.2rem;
+              line-height: 1.2175;
+              margin-bottom: 2rem;
+              white-space: nowrap;
+              width: 100%;
+            }
+          }
+        }
+      }
+
+      .questions-zse {
+        align-items: center;
+        background-color: #e9983f;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 100%;
+        padding: 2.6rem 1.5rem 2.5rem 1.5rem;
+
+        .group-13-8U4 {
+          flex-shrink: 0;
+          height: 5rem;
+          margin: 0rem 1.1rem 0.2rem 0rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 5rem;
+        }
+
+        .group-1-E1J {
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          height: 100%;
+
+          .call-us-on-whatsapp-Bx8 {
+            color: #ffffff;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 400;
+            line-height: 1.2175;
+            margin: 0rem 0rem 0.6rem 1.1rem;
+            white-space: nowrap;
+          }
+
+          .item-91-980-870-7997-7Kz {
+            color: #ffffff;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 2.4rem;
+            font-weight: 600;
+            line-height: 1.2175;
+            white-space: nowrap;
+            margin-top: 0;
+          }
+        }
+      }
+    }
+
+    .book-today-wpp {
+      color: rgba(255, 255, 255, 0.8100000024);
+      flex-shrink: 0;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.4rem;
+      font-weight: 600;
+      letter-spacing: 0.266rem;
+      line-height: 1.2175;
+      margin: 0rem 0.2rem 0.7rem 0rem;
+      text-align: center;
+      white-space: nowrap;
+    }
+
+    .kaal-sarp-puja-in-trimbakeshwar-qvC {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 6.4rem;
+      font-weight: 700;
+      line-height: 1.1875;
+      margin: 0rem 0.2rem 2rem 0rem;
+      max-width: 54.9rem;
+      text-align: center;
+
+      .kaal-sarp-puja-in-trimbakeshwar-qvC-sub-0 {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 6.4rem;
+        font-weight: 500;
+        line-height: 1.1875;
+      }
+
+      .kaal-sarp-puja-in-trimbakeshwar-qvC-sub-1 {}
+    }
+
+    .contact-guruji-for-kaal-sarp-puja-booking-narayan-nagbali-puja-pitra-dosh-shanti-puja-and-maha-mrityunjay-jaap-puja-2dJ {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.8rem;
+      font-weight: 500;
+      line-height: 1.5;
+      margin-bottom: 3rem;
+      max-width: 59.2rem;
+      text-align: center;
+    }
+
+    .main-btn-78x {
+      align-items: center;
+      background-color: #ffffff;
+      box-sizing: border-box;
+      cursor: pointer;
+      display: flex;
+      flex-shrink: 0;
+      height: 4.8rem;
+      margin: 0 83.9rem;
+      padding: 1.2rem 2.15rem 1.2rem 2rem;
+
+      .frame-16-R9e {
+        align-items: center;
+        box-sizing: border-box;
+        display: flex;
+        flex-shrink: 0;
+        height: 100%;
+        margin-right: 3.15rem;
+        padding: 0.2rem 0rem 0.2rem 0.541rem;
+
+        .fluent-call-24-filled-iPe {
+          flex-shrink: 0;
+          height: 2rem;
+          margin: 0rem 1.459rem 0rem 0rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 1.4rem;
+        }
+
+        .item-980-870-7997-QGU {
+          color: #e9983f;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 1.6rem;
+          font-weight: 600;
+          line-height: 1.2175;
+          text-align: center;
+          white-space: nowrap;
+        }
+      }
+
+      .bi-arrow-up-vkc {
+        flex-shrink: 0;
+        height: 1.3502rem;
+        margin-top: 0rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2.1001rem;
+      }
+    }
+  }
+
+  .about-RSU {
+    align-items: flex-start;
+    display: flex;
+    flex-shrink: 0;
+    height: 52.3rem;
+    margin: 0rem 39rem 9.6rem 39.5rem;
+    width: calc(100% - 78.5rem);
+
+    .mask-group-97a {
+      flex-shrink: 0;
+      height: 100%;
+      margin-right: 9.3rem;
+      width: 48.7rem;
+
+      .auto-group-sfj4-VSL {
+        height: 51.7rem;
+        object-fit: contain;
+        position: relative;
+        vertical-align: top;
+        width: 45.8rem;
+      }
+    }
+
+    .group-14-2x4 {
+      flex-shrink: 0;
+      width: 55.5rem;
+
+      .about-PGp {
+        color: rgba(24, 7, 7, 0.3700000048);
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 600;
+        letter-spacing: 0.266rem;
+        line-height: 1.2175;
+        margin: 0rem 0rem 1.5rem 0.5rem;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .auto-group-sur6-UJG {
+        align-items: flex-end;
+        display: flex;
+        margin: 0rem 11.7rem 2.5rem 0rem;
+        width: calc(100% - 11.7rem);
+
+        .rectangle-25-QBv {
+          background-color: #e9983f;
+          flex-shrink: 0;
+          height: 10.8rem;
+          margin: 0rem 1.6rem 0.2rem 0rem;
+          width: 0.4rem;
+        }
+
+        .authorized-pandit-acharya-anantkant-ji-in-trimbakeshwar-nashik-87v {
+          color: #180707;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 3.2rem;
+          font-weight: 700;
+          line-height: 1.2175;
+          max-width: 41.8rem;
+
+          .authorized-pandit-acharya-anantkant-ji-in-trimbakeshwar-nashik-87v-sub-0 {
+            color: #180707;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-weight: 500;
+            line-height: 1.2175;
+          }
+
+          .authorized-pandit-acharya-anantkant-ji-in-trimbakeshwar-nashik-87v-sub-1 {}
+
+          .authorized-pandit-acharya-anantkant-ji-in-trimbakeshwar-nashik-87v-sub-2 {
+            color: #180707;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-weight: 500;
+            line-height: 1.2175;
+          }
+        }
+      }
+
+      .guruji-has-an-experience-of-19-years-being-kaal-sarp-pooja-experts-guruji-have-develop-expertises-in-conducting-all-trimbakeshwar-pooja-as-guruji-has-perfromed-more-than-12000-kaalsarp-shanti-poojas-till-date-and-given-100-satisfaction-to-all-yajmans-and-all-the-clientsyajman-get-outstanding-results-immediatly-after-performing-shanti-or-pooja-vidhi-AD2 {
+        color: #180707;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.375;
+        margin-bottom: 4rem;
+        max-width: 55.5rem;
+      }
+
+      .main-btn-9Kr {
+        align-items: center;
+        background-color: #e9983f;
+        box-sizing: border-box;
+        cursor: pointer;
+        display: flex;
+        height: 4.8rem;
+        margin-right: 33.1rem;
+        padding: 1.2rem 1.95rem 1.2rem 1.8rem;
+        width: calc(100% - 33.1rem);
+
+        .frame-17-T5e {
+          align-items: center;
+          box-sizing: border-box;
+          display: flex;
+          flex-shrink: 0;
+          height: 100%;
+          margin-right: 1.75rem;
+          padding: 0.2rem 0rem 0.2rem 0.541rem;
+
+          .fluent-call-24-filled-ag4 {
+            flex-shrink: 0;
+            height: 2rem;
+            margin: 0rem 1.459rem 0rem 0rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 1.4rem;
+          }
+
+          .item-980-870-7997-uTS {
+            color: #ffffff;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 600;
+            line-height: 1.2175;
+            text-align: center;
+            white-space: nowrap;
+          }
+        }
+
+        .bi-arrow-up-SCU {
+          flex-shrink: 0;
+          height: 1.3502rem;
+          margin-top: 0rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2.1001rem;
+        }
+      }
+    }
+  }
+
+  .group-14-A8U {
+    align-items: center;
+    background-color: rgba(242, 235, 227, 0.5299999714);
+    box-sizing: border-box;
+    display: flex;
+    flex-shrink: 0;
+    height: 71.9rem;
+    margin-bottom: 9.5rem;
+    padding: 10.3rem 39rem;
+    width: 100%;
+
+    .content-gsW {
+      flex-shrink: 0;
+      height: calc(100% - 10.5rem);
+      margin: 5.2rem 11rem 5.3rem 0rem;
+      width: 55.1rem;
+
+      .about-DMe {
+        color: rgba(24, 7, 7, 0.3700000048);
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.4rem;
+        font-weight: 600;
+        letter-spacing: 0.266rem;
+        line-height: 1.2175;
+        margin: 0rem 0rem 1.5rem 0.5rem;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .trimbakeshwar-kaal-sarp-puja-8Di {
+        color: #180707;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 3.2rem;
+        font-weight: 700;
+        line-height: 1.2175;
+        margin-bottom: 1.8rem;
+        max-width: 25.2rem;
+
+        .trimbakeshwar-kaal-sarp-puja-8Di-sub-0 {
+          color: #180707;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 3.2rem;
+          font-weight: 500;
+          line-height: 1.2175;
+        }
+
+        .trimbakeshwar-kaal-sarp-puja-8Di-sub-1 {}
+      }
+
+      .kalsarp-pooja-procedure-kalsarp-dosh-is-a-circumstance-when-all-seven-planets-come-between-ketu-and-rahu-to-abolish-this-adverse-effect-the-believer-must-do-the-kalsarp-dosh-pooja-wgx {
+        color: #180707;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.375;
+        margin-bottom: 4rem;
+        max-width: 55.1rem;
+      }
+
+      .auto-group-8qta-zfE {
+        align-items: center;
+        display: flex;
+        margin: 0rem 40.2rem 1.5rem 0rem;
+        width: calc(100% - 40.2rem);
+
+        .icon-ibE {
+          flex-shrink: 0;
+          height: 3.5rem;
+          margin-right: 1.7rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 3.5rem;
+          background-color: #e9983f;
+        }
+
+        .result-49J {
+          color: #180707;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 1.6rem;
+          font-weight: 500;
+          line-height: 1.375;
+          margin-bottom: 0.1rem;
+          white-space: nowrap;
+        }
+      }
+
+      .auto-group-ob1e-WGC {
+        align-items: center;
+        display: flex;
+        margin: 0rem 10.4rem 4rem 0rem;
+        width: calc(100% - 10.4rem);
+
+        .icon-om6 {
+          flex-shrink: 0;
+          height: 3.5rem;
+          margin-right: 1.7rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 3.5rem;
+          background-color: #e9983f;
+        }
+
+        .for-samuhik-puja-2100-for-individual-puja-LW8 {
+          color: #180707;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 1.6rem;
+          font-weight: 500;
+          line-height: 1.375;
+          margin-bottom: 0.1rem;
+          white-space: nowrap;
+        }
+      }
+
+      .main-btn-Sp4 {
+        align-items: center;
+        background-color: #e9983f;
+        box-sizing: border-box;
+        cursor: pointer;
+        display: flex;
+        height: 4.8rem;
+        margin-right: 31.5rem;
+        padding: 1.4rem 1.95rem 1rem 1.8rem;
+        width: calc(100% - 31.5rem);
+
+        .frame-17-mLY {
+          color: #ffffff;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 1.6rem;
+          font-weight: 600;
+          height: 100%;
+          line-height: 1.2175;
+          margin-right: 1.75rem;
+          text-align: center;
+          white-space: nowrap;
+        }
+
+        .bi-arrow-up-eQL {
+          flex-shrink: 0;
+          height: 1.3502rem;
+          margin-bottom: 0.4rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2.1001rem;
+        }
+      }
+    }
+
+    .group-15-MJk {
+      flex-shrink: 0;
+      height: 51.3rem;
+      object-fit: contain;
+      position: relative;
+      vertical-align: top;
+      width: 47.9rem;
+    }
+  }
+
+  .trimbakeshwar-pooja-5Ek {
+    color: rgba(24, 7, 7, 0.3700000048);
+    flex-shrink: 0;
+    font-family: Montserrat, 'Source Sans Pro';
+    font-size: 1.4rem;
+    font-weight: 600;
+    letter-spacing: 0.266rem;
+    line-height: 1.2175;
+    margin: 0rem 0.1rem 1.5rem 0rem;
+    text-align: center;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .other-pujas-performed-by-guruji-kLt {
+    color: #180707;
+    flex-shrink: 0;
+    font-family: Montserrat, 'Source Sans Pro';
+    font-size: 3.2rem;
+    font-weight: 700;
+    line-height: 1.2175;
+    margin-bottom: 6rem;
+    max-width: 37.6rem;
+    text-align: center;
+
+    .other-pujas-performed-by-guruji-kLt-sub-0 {
+      color: #180707;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 3.2rem;
+      font-weight: 500;
+      line-height: 1.2175;
+    }
+
+    .other-pujas-performed-by-guruji-kLt-sub-1 {}
+  }
+
+  .auto-group-mr2q-jTi {
+    align-items: center;
+    column-gap: 3rem;
+    display: flex;
+    flex-shrink: 0;
+    height: 41.5rem;
+    margin: 0rem 39rem 10rem 39rem;
+    width: calc(100% - 78rem);
+
+    .pitra-dosh-rYL {
+      align-items: center;
+      background-color: #ffffff;
+      border-radius: 0.5rem;
+      box-shadow: 0 0.4rem 3.1rem rgba(0, 0, 0, 0.0799999982);
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      height: 100%;
+      width: 36rem;
+
+      .mask-group-1RE {
+        flex-shrink: 0;
+        height: 23rem;
+        object-fit: contain;
+        position: relative;
+        vertical-align: top;
+        width: 36rem;
+      }
+
+      .auto-group-fdgg-Mjz {
+        align-items: center;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        padding: 2.5rem 5.5rem 2.7rem 5.6rem;
+        width: 100%;
+
+        .pitra-dosh-nivaran-puja-VLQ {
+          color: #180707;
+          cursor: pointer;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 700;
+          line-height: 1.1;
+          margin-bottom: 1.6rem;
+          text-align: center;
+          white-space: nowrap;
+          width: 100%;
+        }
+
+        .pitra-dosh-nivaran-puja-QTN {
+          align-items: center;
+          color: #180707;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Hind, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 400;
+          height: 2.2rem;
+          justify-content: center;
+          line-height: 1.1;
+          margin-bottom: 2.5rem;
+          text-align: center;
+          white-space: nowrap;
+          width: 100%;
+        }
+
+        .main-btn-dqv {
+          align-items: center;
+          background-color: #e9983f;
+          box-sizing: border-box;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          height: 4.8rem;
+          margin: 0 4.2rem;
+          padding: 1.4rem 1.95rem 1rem 1.8rem;
+          width: calc(100% - 8.4rem);
+
+          .frame-17-9pG {
+            color: #ffffff;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 600;
+            height: 100%;
+            line-height: 1.2175;
+            margin-right: 1.75rem;
+            text-align: center;
+            white-space: nowrap;
+          }
+
+          .bi-arrow-up-RFz {
+            flex-shrink: 0;
+            height: 1.3502rem;
+            margin-bottom: 0.4rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 2.1001rem;
+          }
+        }
+      }
+    }
+
+    .narayan-nagbali-puja-uS4 {
+      align-items: center;
+      background-color: #ffffff;
+      border-radius: 0.5rem;
+      box-shadow: 0 0.4rem 3.1rem rgba(0, 0, 0, 0.0799999982);
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      height: 100%;
+      width: 36rem;
+
+      .mask-group-rMJ {
+        flex-shrink: 0;
+        height: 23rem;
+        object-fit: contain;
+        position: relative;
+        vertical-align: top;
+        width: 36rem;
+      }
+
+      .auto-group-ea2g-aYC {
+        align-items: center;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        padding: 2.5rem 5.5rem 2.7rem 5.6rem;
+        width: 100%;
+
+        .pitra-dosh-nivaran-puja-WRr {
+          align-items: center;
+          color: #180707;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 700;
+          height: 2.2rem;
+          justify-content: center;
+          line-height: 1.1;
+          margin-bottom: 1.6rem;
+          text-align: center;
+          white-space: nowrap;
+          width: 100%;
+        }
+
+        .pitra-dosh-nivaran-puja-D5N {
+          align-items: center;
+          color: #180707;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Hind, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 400;
+          height: 2.2rem;
+          justify-content: center;
+          line-height: 1.1;
+          margin-bottom: 2.5rem;
+          text-align: center;
+          white-space: nowrap;
+          width: 100%;
+        }
+
+        .main-btn-7wS {
+          align-items: center;
+          background-color: #e9983f;
+          box-sizing: border-box;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          height: 4.8rem;
+          margin: 0 4.2rem;
+          padding: 1.4rem 1.95rem 1rem 1.8rem;
+          width: calc(100% - 8.4rem);
+
+          .frame-17-3KJ {
+            color: #ffffff;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 600;
+            height: 100%;
+            line-height: 1.2175;
+            margin-right: 1.75rem;
+            text-align: center;
+            white-space: nowrap;
+          }
+
+          .bi-arrow-up-eZz {
+            flex-shrink: 0;
+            height: 1.3502rem;
+            margin-bottom: 0.4rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 2.1001rem;
+          }
+        }
+      }
+    }
+
+    .maha-mrityunjay-WMJ {
+      align-items: center;
+      background-color: #ffffff;
+      border-radius: 0.5rem;
+      box-shadow: 0 0.4rem 3.1rem rgba(0, 0, 0, 0.0799999982);
+      display: flex;
+      flex-direction: column;
+      flex-shrink: 0;
+      height: 100%;
+      width: 36rem;
+
+      .mask-group-psn {
+        flex-shrink: 0;
+        height: 23rem;
+        object-fit: contain;
+        position: relative;
+        vertical-align: top;
+        width: 36rem;
+      }
+
+      .auto-group-97ac-ac4 {
+        align-items: center;
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        padding: 2.5rem 5.5rem 2.7rem 5.6rem;
+        width: 100%;
+
+        .pitra-dosh-nivaran-puja-iTN {
+          align-items: center;
+          color: #180707;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 700;
+          height: 2.2rem;
+          justify-content: center;
+          line-height: 1.1;
+          margin-bottom: 1.6rem;
+          text-align: center;
+          white-space: nowrap;
+          width: 100%;
+        }
+
+        .pitra-dosh-nivaran-puja-nTE {
+          align-items: center;
+          color: #180707;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          font-family: Hind, 'Source Sans Pro';
+          font-size: 2rem;
+          font-weight: 400;
+          height: 2.2rem;
+          justify-content: center;
+          line-height: 1.1;
+          margin-bottom: 2.5rem;
+          text-align: center;
+          white-space: nowrap;
+          width: 100%;
+        }
+
+        .main-btn-VsS {
+          align-items: center;
+          background-color: #e9983f;
+          box-sizing: border-box;
+          cursor: pointer;
+          display: flex;
+          flex-shrink: 0;
+          height: 4.8rem;
+          margin: 0 4.2rem;
+          padding: 1.4rem 1.95rem 1rem 1.8rem;
+          width: calc(100% - 8.4rem);
+
+          .frame-17-pep {
+            color: #ffffff;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 1.6rem;
+            font-weight: 600;
+            height: 100%;
+            line-height: 1.2175;
+            margin-right: 1.75rem;
+            text-align: center;
+            white-space: nowrap;
+          }
+
+          .bi-arrow-up-Yap {
+            flex-shrink: 0;
+            height: 1.3502rem;
+            margin-bottom: 0.4rem;
+            object-fit: contain;
+            vertical-align: top;
+            width: 2.1001rem;
+          }
+        }
+      }
+    }
+  }
+
+  .action-bar-nzx {
+    align-items: center;
+    background-image: url('image\ 1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 5.6rem 74.3rem;
+    width: 100%;
+
+    .dont-know-where-to-start-Wg4 {
+      color: rgba(255, 255, 255, 0.8100000024);
+      flex-shrink: 0;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 1.4rem;
+      font-weight: 600;
+      letter-spacing: 0.266rem;
+      line-height: 1.2175;
+      margin-bottom: 1.5rem;
+      text-align: center;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+
+    .book-your-kaal-sarp-pooja-trimbakeshwar-Pzk {
+      color: #ffffff;
+      flex-shrink: 0;
+      font-family: Montserrat, 'Source Sans Pro';
+      font-size: 3.2rem;
+      font-weight: 500;
+      line-height: 1.2175;
+      margin-bottom: 3.4rem;
+      max-width: 43.4rem;
+      text-align: center;
+
+      .book-your-kaal-sarp-pooja-trimbakeshwar-Pzk-sub-0 {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 3.2rem;
+        font-weight: 700;
+        line-height: 1.2175;
+      }
+
+      .book-your-kaal-sarp-pooja-trimbakeshwar-Pzk-sub-1 {}
+    }
+
+    .main-btn-N5z {
+      align-items: center;
+      background-color: #ffffff;
+      box-sizing: border-box;
+      cursor: pointer;
+      display: flex;
+      flex-shrink: 0;
+      height: 4.8rem;
+      margin: 0 12.7rem;
+      padding: 1.4rem 2.15rem 1rem 2rem;
+
+      .frame-16-Uui {
+        color: #e9983f;
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 600;
+        height: 100%;
+        line-height: 1.2175;
+        margin-right: 3.15rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+
+      .bi-arrow-up-D6c {
+        flex-shrink: 0;
+        height: 1.3502rem;
+        margin-bottom: 0.4rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2.1001rem;
+      }
+    }
+  }
+
+  .auto-group-8rgc-7hn {
+    align-items: center;
+    background-color: rgba(242, 235, 227, 0.5299999714);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+    padding: 10rem 11.1rem 10rem 39rem;
+    width: 100%;
+
+    .auto-group-efe4-F3J {
+      align-items: flex-start;
+      display: flex;
+      flex-shrink: 0;
+      height: 13.5rem;
+      margin: 0rem 27.8rem 0.5rem 0rem;
+      width: calc(100% - 27.8rem);
+
+      .auto-group-dnpn-yV6 {
+        flex-shrink: 0;
+        margin-right: 20.3rem;
+        width: 38.3rem;
+
+        .contact-Kor {
+          color: rgba(24, 7, 7, 0.3700000048);
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 1.4rem;
+          font-weight: 600;
+          letter-spacing: 0.266rem;
+          line-height: 1.2175;
+          margin: 0rem 0rem 1.5rem 0.1rem;
+          text-transform: uppercase;
+          white-space: nowrap;
+        }
+
+        .auto-group-e7lx-SNg {
+          align-items: flex-end;
+          display: flex;
+          width: 100%;
+
+          .rectangle-26-oU8 {
+            background-color: #e9983f;
+            flex-shrink: 0;
+            height: 7.1rem;
+            margin-right: 1.7rem;
+            width: 0.4rem;
+            margin-bottom: 9%;
+          }
+
+          .connect-with-acharya-anantkant-ji-jsa {
+            color: #180707;
+            flex-shrink: 0;
+            font-family: Montserrat, 'Source Sans Pro';
+            font-size: 3.2rem;
+            font-weight: 700;
+            line-height: 1.2175;
+            max-width: 36.2rem;
+
+            .connect-with-acharya-anantkant-ji-jsa-sub-0 {
+              color: #180707;
+              font-family: Montserrat, 'Source Sans Pro';
+              font-size: 3.2rem;
+              font-weight: 500;
+              line-height: 1.2175;
+            }
+
+            .connect-with-acharya-anantkant-ji-jsa-sub-1 {}
+          }
+        }
+      }
+
+      .auto-group-4rme-xVS {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+        height: 100%;
+        width: 55.5rem;
+
+        .input-main-7NL {
+          flex-shrink: 0;
+          height: 6.5rem;
+          margin-bottom: 0.5rem;
+          width: 100%;
+
+          .frame-16-Twz {
+            align-items: center;
+            background-color: #ffffff;
+            border: solid 0.1rem rgba(24, 7, 7, 0.1099999994);
+            border-radius: 0.5rem;
+            box-sizing: border-box;
+            cursor: pointer;
+            display: flex;
+            height: 4.5rem;
+            padding: 1.4rem 38rem 1.3rem 1.4rem;
+            width: 100%;
+
+            .auto-group-z5sc-Bd6 {
+              align-items: center;
+              color: #6a6a6a;
+              display: flex;
+              flex-shrink: 0;
+              font-family: Montserrat, 'Source Sans Pro';
+              font-size: 1.4rem;
+              font-weight: 400;
+              height: 100%;
+              justify-content: center;
+              line-height: 1.2175;
+              margin-right: 7.4rem;
+              white-space: nowrap;
+              width: 7.3rem;
+            }
+
+            .auto-group-f1kr-Us6 {
+              flex-shrink: 0;
+              height: 0.868rem;
+              margin-bottom: 0.2rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 1.4rem;
+            }
+          }
+        }
+
+        .input-main-Azp {
+          flex-shrink: 0;
+          height: 6.5rem;
+          width: 100%;
+
+          .frame-16-WHz {
+            align-items: center;
+            background-color: #ffffff;
+            border: solid 0.1rem rgba(24, 7, 7, 0.1099999994);
+            border-radius: 0.5rem;
+            box-sizing: border-box;
+            cursor: pointer;
+            display: flex;
+            height: 4.5rem;
+            padding: 1.4rem 38rem 1.3rem 1.4rem;
+            width: 100%;
+
+            .auto-group-zrlu-dNc {
+              align-items: center;
+              color: #6a6a6a;
+              display: flex;
+              flex-shrink: 0;
+              font-family: Montserrat, 'Source Sans Pro';
+              font-size: 1.4rem;
+              font-weight: 400;
+              height: 100%;
+              justify-content: center;
+              line-height: 1.2175;
+              margin-right: 3.7rem;
+              white-space: nowrap;
+              width: 11rem;
+            }
+
+            .auto-group-bzha-YEg {
+              flex-shrink: 0;
+              height: 0.868rem;
+              margin-bottom: 0.2rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 1.4rem;
+            }
+          }
+        }
+      }
+    }
+
+    .auto-group-fdye-qUg {
+      align-items: flex-start;
+      display: flex;
+      flex-shrink: 0;
+      height: 13.5rem;
+      margin-bottom: 0.5rem;
+      width: 100%;
+
+      .address-trimbakeshwar-shiva-temple-nashik-phone-91-9921572833-email-vinayakgurujitrimbakeshwargmailcom-n92 {
+        color: #180707;
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 0.875;
+        margin: 4.1rem 20.2rem 0rem 0rem;
+        max-width: 38.4rem;
+      }
+
+      .auto-group-qm4g-dvL {
+        flex-shrink: 0;
+        height: 100%;
+        width: 83.3rem;
+        margin-left: 5%;
+
+        .input-main-CCk {
+          height: 6.5rem;
+          margin-bottom: 0.5rem;
+          width: 55.5rem;
+
+          .frame-16-YGc {
+            align-items: center;
+            background-color: #ffffff;
+            border-radius: 0.5rem;
+            box-sizing: border-box;
+            display: flex;
+            height: 4.5rem;
+            padding: 1.4rem 1.4rem 1.3rem 1.4rem;
+            width: 100%;
+
+            .auto-group-vpbj-4Ex {
+              align-items: center;
+              color: #6a6a6a;
+              display: flex;
+              flex-shrink: 0;
+              font-family: Montserrat, 'Source Sans Pro';
+              font-size: 1.4rem;
+              font-weight: 400;
+              height: 100%;
+              justify-content: center;
+              line-height: 1.2175;
+              margin-right: 1.4rem;
+              white-space: nowrap;
+              width: 13.3rem;
+            }
+
+            .auto-group-hx2c-ZhW {
+              flex-shrink: 0;
+              height: 0.868rem;
+              margin: 0rem 35.8rem 0.2rem 0rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 1.4rem;
+            }
+
+            .vector-tDz {
+              flex-shrink: 0;
+              height: 0.4235rem;
+              margin-bottom: 0.1rem;
+              object-fit: contain;
+              vertical-align: top;
+              width: 0.8rem;
+            }
+          }
+        }
+
+        .auto-group-ghp2-QTE {
+          height: 6.5rem;
+          position: relative;
+          width: 100%;
+
+          .input-main-Zb2 {
+            height: 6.5rem;
+            left: 0;
+            position: absolute;
+            top: 0;
+            width: 54.1rem;
+
+            .frame-16-K4Q {
+              align-items: center;
+              background-color: #ffffff;
+              border: solid 0.1rem rgba(24, 7, 7, 0.1099999994);
+              border-radius: 0.5rem;
+              box-sizing: border-box;
+              cursor: pointer;
+              display: flex;
+              height: 4.5rem;
+              padding: 1.4rem 12.6rem 1.3rem 1.4rem;
+              width: 50%;
+
+              .auto-group-syly-d56 {
+                color: #6a6a6a;
+                flex-shrink: 0;
+                font-family: Montserrat, 'Source Sans Pro';
+                font-size: 1.4rem;
+                font-weight: 400;
+                height: 100%;
+                line-height: 1.2175;
+                margin-right: 10.3222rem;
+                white-space: nowrap;
+                width: 4.3778rem;
+              }
+
+              .auto-group-yujz-wLg {
+                flex-shrink: 0;
+                height: 0.868rem;
+                margin-bottom: 0.2rem;
+                object-fit: contain;
+                vertical-align: top;
+                width: 1.4rem;
+              }
+            }
+          }
+
+          .input-main-38p {
+            height: 6.5rem;
+            left: 29.2rem;
+            position: absolute;
+            top: 0;
+            width: 54.1rem;
+
+            .frame-16-nMJ {
+              align-items: center;
+              background-color: #ffffff;
+              border: solid 0.1rem rgba(24, 7, 7, 0.1099999994);
+              border-radius: 0.5rem;
+              box-sizing: border-box;
+              cursor: pointer;
+              display: flex;
+              height: 4.5rem;
+              padding: 1.4rem 25.6rem 1.3rem 1.4rem;
+              width: 50%;
+
+              .auto-group-pxmn-iVr {
+                color: #6a6a6a;
+                flex-shrink: 0;
+                font-family: Montserrat, 'Source Sans Pro';
+                font-size: 1.4rem;
+                font-weight: 400;
+                height: 100%;
+                line-height: 1.2175;
+                margin-right: 10.3222rem;
+                white-space: nowrap;
+                width: 4.3778rem;
+              }
+
+              .auto-group-pgix-EDJ {
+                flex-shrink: 0;
+                height: 0.868rem;
+                margin-bottom: 0.2rem;
+                object-fit: contain;
+                vertical-align: top;
+                width: 1.4rem;
+              }
+            }
+          }
+        }
+      }
+    }
+
+    .frame-16-jQx {
+      align-items: flex-start;
+      background-color: #ffffff;
+      border: solid 0.1rem rgba(24, 7, 7, 0.1099999994);
+      border-radius: 0.5rem;
+      box-sizing: border-box;
+      cursor: pointer;
+      display: flex;
+      flex-shrink: 0;
+      height: 10.4rem;
+      margin: 0rem 27.8rem 2.5rem 58.6rem;
+      padding: 1.4rem 38rem 1.4rem 0rem;
+      width: calc(100% - 86.4rem);
+
+      .auto-group-yvjx-Roa {
+        box-sizing: border-box;
+        flex-shrink: 0;
+        height: 5.1rem;
+        margin-right: 4.9rem;
+        padding-left: 1.4rem;
+        width: 11.2rem;
+
+        .auto-group-srwc-Y7W {
+          align-items: center;
+          color: #6a6a6a;
+          display: flex;
+          font-family: Montserrat, 'Source Sans Pro';
+          font-size: 1.4rem;
+          font-weight: 400;
+          height: 1.8rem;
+          justify-content: center;
+          line-height: 1.2175;
+          margin-bottom: 3.3rem;
+          white-space: nowrap;
+          width: 100%;
+        }
+      }
+
+      .auto-group-e7ue-3a4 {
+        flex-shrink: 0;
+        height: 0.868rem;
+        margin-top: 0.366rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 1.4rem;
+      }
+    }
+
+    .main-btn-wvL {
+      align-items: center;
+      background-color: #e9983f;
+      box-sizing: border-box;
+      cursor: pointer;
+      display: flex;
+      flex-shrink: 0;
+      height: 4.8rem;
+      margin: 0rem 69.6rem 0rem 58.6rem;
+      padding: 1.4rem 1.95rem 1rem 1.8rem;
+
+      .frame-17-3yN {
+        color: #ffffff;
+        flex-shrink: 0;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 600;
+        height: 100%;
+        line-height: 1.2175;
+        margin-right: 1.75rem;
+        text-align: center;
+        white-space: nowrap;
+      }
+
+      .bi-arrow-up-ys2 {
+        flex-shrink: 0;
+        height: 1.3502rem;
+        margin-bottom: 0.4rem;
+        object-fit: contain;
+        vertical-align: top;
+        width: 2.1001rem;
+      }
+    }
+  }
+
+  .footer-h2L {
+    background-color: #161616;
+    flex-shrink: 0;
+    height: 41.9rem;
+    position: relative;
+    width: 100%;
+
+    .all-rights-reserved-panditji-2022-36C {
+      color: rgba(255, 255, 255, 0.5299999714);
+      font-family: Cabin, 'Source Sans Pro';
+      font-size: 1.6rem;
+      font-weight: 400;
+      height: 2.2rem;
+      left: 77.8rem;
+      letter-spacing: 0.032rem;
+      line-height: 1.375;
+      position: absolute;
+      top: 37.6rem;
+      white-space: nowrap;
+      width: 23.5rem;
+    }
+
+    .group-12-iTE {
+      height: 13.4rem;
+      left: 38.9rem;
+      position: absolute;
+      top: 8rem;
+      width: 26.8rem;
+
+      .about-FCG {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 700;
+        letter-spacing: 0.032rem;
+        line-height: 1.375;
+        margin-bottom: 2rem;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .best-pandit-in-trimbakeshwar-for-kalsarp-pooja-yPA {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 400;
+        line-height: 1.375;
+        margin: 0rem 0rem 2.8rem 0.1rem;
+        max-width: 26.7rem;
+      }
+
+      .auto-group-hn8c-fmn {
+        align-items: center;
+        display: flex;
+
+        .fb-26Y {
+          cursor: pointer;
+          flex-shrink: 0;
+          height: 2rem;
+          margin-right: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2rem;
+        }
+
+        .bxl-telegram-y1n {
+          cursor: pointer;
+          flex-shrink: 0;
+          height: 2rem;
+          margin-right: 1.9999rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2rem;
+        }
+
+        .akar-icons-youtube-fill-iEG {
+          cursor: pointer;
+          flex-shrink: 0;
+          height: 2rem;
+          margin-right: 1.9998rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2.0003rem;
+        }
+
+        .akar-icons-instagram-fill-FV6 {
+          cursor: pointer;
+          flex-shrink: 0;
+          height: 2rem;
+          object-fit: contain;
+          vertical-align: top;
+          width: 2rem;
+        }
+      }
+    }
+
+    .quick-links-PrC {
+      height: 28.2rem;
+      left: 74rem;
+      position: absolute;
+      top: 8rem;
+      width: 11.3rem;
+
+      .quick-links-YDJ {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 700;
+        letter-spacing: 0.032rem;
+        line-height: 1.375;
+        margin-bottom: 2rem;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .home-about-pujas-we-do-contact-fHv {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 400;
+        letter-spacing: 0.032rem;
+        max-width: 10.1rem;
+      }
+    }
+
+    .quick-links-PDv {
+      height: 32.2rem;
+      left: 93.8rem;
+      position: absolute;
+      top: 8rem;
+      width: 26.2rem;
+
+      .other-pujas-7vc {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 700;
+        letter-spacing: 0.032rem;
+        line-height: 1.375;
+        margin-bottom: 2rem;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .kaal-sarp-pooja-trimbakeshwar-mahmritunjaya-jaap-puja-rudra-abhishek-pooja-narayan-naagbali-puja-q5v {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 400;
+        letter-spacing: 0.032rem;
+        max-width: 26.2rem;
+      }
+    }
+
+    .contact-Whr {
+      height: 16.2rem;
+      left: 127.5rem;
+      position: absolute;
+      top: 8rem;
+      width: 24.1rem;
+
+      .free-consultation-FQY {
+        color: #ffffff;
+        font-family: Cabin, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 700;
+        letter-spacing: 0.032rem;
+        line-height: 1.375;
+        margin-bottom: 2rem;
+        text-transform: uppercase;
+        white-space: nowrap;
+      }
+
+      .call-us-91-9921572833-call-now-talk-with-pandit-ji-aBv {
+        color: #ffffff;
+        font-family: Montserrat, 'Source Sans Pro';
+        font-size: 1.6rem;
+        font-weight: 400;
+        letter-spacing: 0.032rem;
+        max-width: 24.1rem;
+      }
+    }
+
+    .line-6-5uN {
+      background-color: rgba(255, 255, 255, 0.150000006);
+      height: 0.2rem;
+      left: 0;
+      position: absolute;
+      top: 36.2rem;
+      width: 192rem;
+    }
+  }
+}
